@@ -1,2 +1,2 @@
-import { gerrt } from "./gerrt/gerrt";
-console.log(gerrt);
+import { gerrting } from "./gerrt/gerrt";
+console.log(gerrting("vikraman"));

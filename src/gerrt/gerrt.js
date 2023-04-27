@@ -1,2 +1,2 @@
-const gerrt = "hello vikraman";
-export default gerrt;
+const gerrting = (name) => `hello ${name}`;
+export default gerrting;
